@@ -1,0 +1,108 @@
+.wrapper{
+    overflow: hidden;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.stocks{
+    overflow: hidden;
+    height: 248px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.info{
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 196px;
+}
+
+.caption{
+    position: relative;
+    top: 10px;
+    left: 350px;
+    width: 920px;
+    height: 73px;
+    background: linear-gradient(180deg, #FB0101 0%, #411CAB 100%);
+    font-size: 44px;
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+.description
+{
+    position: relative;
+    top: 15px;
+    left: 315px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    color: white;
+}
+
+.captionButton{
+    cursor: pointer;
+    position: relative;
+    top: 40px;
+    left: 480px;
+    width: 226px;
+    height: 58px;
+    background: linear-gradient(180deg, #FB0101 0%, #411CAB 100%);
+    font-size: 24px;
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: bold;
+    line-height: 52px;
+}
+
+.pricing{
+    font-size: 28px;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+.spanPrice{
+    position: relative;
+    top: 90px;
+    left: 40px
+}
+
+.header{
+    position: relative;
+    top: 5px;
+    left: 40px;
+    font-weight: bold;
+    font-size: 30px;
+    color: #000000;
+}
+
+.employee{
+    padding: 15px 15px 15px 15px;
+}
+
+.block {
+    font-size: 1.3em;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    padding: 15px;
+    background: #f1f1f1;
+    height: 240px;
+}
+
+.teamRow{
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+.post
+{
+    margin-top: 40px;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+}

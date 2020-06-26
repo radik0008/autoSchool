@@ -1,0 +1,55 @@
+.block{
+    margin: 25px auto auto auto;
+    width: min-content;
+    height: auto;
+}
+
+.label{
+    padding: 0 0 10px 0;
+    margin: 0;
+    font-size: 16px;
+    font-weight: bold;
+    color: #000000;
+}
+
+.textBox{
+    width: 420px;
+    height: 63px;
+    background: #F7F7F7;
+    border: 1px solid #000000;
+}
+
+.inputForm{
+    margin-top: 10px;
+}
+
+.button{
+    cursor: pointer;
+    padding: 10px 40px 10px 40px;
+    margin: 15px auto;
+    width: min-content;
+    background: #0702FF;
+    font-weight: bold;
+    font-size: 24px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.caption {
+    margin-top: 50px;
+    margin-left: 210px;
+    font-weight: bold;
+    font-size: 16px;
+    color: #000000;
+}
+
+.link{
+    margin-left: 50px;
+    font-weight: 500;
+    font-size: 18px;
+    color: #2735AE;
+}
+
+.last{
+    margin-top: 30px;
+}
